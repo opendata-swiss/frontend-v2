@@ -19,3 +19,10 @@ tags
 
 # themes
 themes/frontend-eds/*
+themes/ogdch-frontend
+
+# jetbrains
+.idea
+
+# environments
+.env-ogdch*
